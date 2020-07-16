@@ -24,3 +24,7 @@ valid
   Cat,baby,smile,good,app&amp;le,beautiful,dog,nice
   抛出异常：
   RuntimeException
+
+
+# WARNING
+该代码库版权归ThoughtWorks所有。
